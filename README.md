@@ -1,3 +1,4 @@
+![logo](https://github.com/Soroush4208/Soroush4208/blob/main/banner)
 <h1 align="center">Hi 👋, I'm Soroush</h1>
 <h3 align="center">𝑰 𝒂𝒎 𝒂 𝑭𝒓𝒐𝒏𝒕 𝑬𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑭𝒓𝒐𝒎 𝑰𝒓𝒂𝒏</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif">
