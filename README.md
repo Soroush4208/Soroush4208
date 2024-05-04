@@ -1,14 +1,18 @@
 ![logo](https://github.com/Soroush4208/Soroush4208/blob/main/2131.gif)
 <h1 align="center" >◉ 𝗛𝗶 ✯ 𝗜'𝗺 𝗦𝗼𝗿𝗼𝘂𝘀𝗵 ◉</h1>
+
 <h3 align="center">𝑰 𝒂𝒎 𝒂 𝑭𝒓𝒐𝒏𝒕 𝑬𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑭𝒓𝒐𝒎 𝑰𝒓𝒂𝒏</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soroush4208&label=Profile%20views&color=0e75b6&style=flat" alt="soroush4208" /> </p>
 
-- ❤️ I’m currently learning **React JS & TS**
 
-- 💬 Ask me about **REACT JS**
-
-- 📫 How to reach me **soroush.r80@gmail.com**
+- ✌️   𝐄𝐧𝐣𝐨𝐲 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐚𝐧𝐝 𝐬𝐡𝐚𝐫𝐢𝐧𝐠 𝐢𝐭 
+  
+- ❤️   𝐋𝐨𝐯𝐞 𝐭𝐨 𝐰𝐫𝐢𝐭𝐢𝐧𝐠 𝐜𝐨𝐝𝐞 𝐚𝐧𝐝 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐧𝐞𝐰 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬
+  
+- 🌱   𝐈’𝐦 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝑹𝒆𝒂𝒄𝒕𝑱𝒔, 𝑻𝒚𝒑𝒆𝑺𝒄𝒓𝒊𝒑𝒕𝐭
+  
+- 📧   𝐑𝐞𝐚𝐜𝐡 𝐦𝐞 𝐚𝐧𝐲𝐭𝐢𝐦𝐞: **𝒔𝒐𝒓𝒐𝒖𝒔𝒉.𝒓80@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
