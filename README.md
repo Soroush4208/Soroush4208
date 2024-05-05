@@ -28,11 +28,11 @@
 
 # 📊 GitHub Stats:
 <img align="center" alt="coding" width="100%" height="350em" src="https://camo.githubusercontent.com/e34348af3f1c09322e1a24c027544db7f7968cc67e290fe72ff471494b872710/68747470733a2f2f632e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966">
+
+<div align="center">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soroush4208&langs_count=8&theme=vision-friendly-dark" alt=Soroush4208 />
-
-
-
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Soroush4208&theme=vision-friendly-dark" alt="Soroush4208" /></p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
