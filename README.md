@@ -31,7 +31,7 @@
 
 <div align="center"  width="100%">
 <img align="left" height="180em"  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soroush4208&langs_count=8&theme=vision-friendly-dark" alt=Soroush4208 />
-<p><img align="center"  width="40%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Soroush4208&theme=vision-friendly-dark" alt="Soroush4208" /></p>
+<p><img align="center"  width="40%" height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=Soroush4208&theme=vision-friendly-dark" alt="Soroush4208" /></p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
