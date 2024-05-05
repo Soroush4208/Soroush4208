@@ -27,7 +27,7 @@
 
 
 # 📊 GitHub Stats:
-<img align="center" alt="coding" width="100%" src="https://camo.githubusercontent.com/e34348af3f1c09322e1a24c027544db7f7968cc67e290fe72ff471494b872710/68747470733a2f2f632e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966">
+<img align="center" alt="coding" width="100%" height="350em" src="https://camo.githubusercontent.com/e34348af3f1c09322e1a24c027544db7f7968cc67e290fe72ff471494b872710/68747470733a2f2f632e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soroush4208&langs_count=8&theme=vision-friendly-dark" alt=Soroush4208 />
 
 
@@ -41,7 +41,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soroush4208&theme=github_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soroush4208&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soroush4208&theme=2077" height="180em" />
-  <p>&nbsp;<img align="center" height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Soroush4208&show_icons=true&locale=en&theme=react" alt="Soroush4208" /></p>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soroush4208&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
